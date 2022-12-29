@@ -1,0 +1,3 @@
+Hello!!
+
+This repo contains EDA and data analysis - basically some interesting facts drawn by plots...
